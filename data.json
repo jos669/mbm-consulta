@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "fecha_actualizacion": "2026-09-03T03:18:16Z",
+  "datos": {
+    "papeleria": [],
+    "expedientes": [],
+    "estudiantes": [
+      {
+        "id_publico": "a1b2c3d4e5f6",
+        "nombre_completo": "Ana Lucía Martínez Pérez",
+        "grado": "3ro Básico",
+        "seccion": "A",
+        "carrera": "",
+        "anios": "2024,2025,2026",
+        "estado_general": "completo",
+        "requeridos": 21,
+        "completados": 21,
+        "por_categoria": [
+          {
+            "categoria": "Certificados de Básicos",
+            "items": [
+              { "tipo": "Certificado de Estudios", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Certificado de Estudios", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Certificado de Estudios", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Constancia de Conducta", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Constancia de Conducta", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Constancia de Conducta", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "en_orden", "anio": 2026, "observaciones": "" }
+            ]
+          },
+          {
+            "categoria": "Documentos Personales",
+            "items": [
+              { "tipo": "Fotografías tamaño cédula", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Fotografías tamaño cédula", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Fotografías tamaño cédula", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "en_orden", "anio": 2026, "observaciones": "" }
+            ]
+          }
+        ]
+      },
+      {
+        "id_publico": "b2c3d4e5f6a7",
+        "nombre_completo": "Carlos Andrés Méndez Ruano",
+        "grado": "1ro Básico",
+        "seccion": "B",
+        "carrera": "",
+        "anios": "2024,2025,2026",
+        "estado_general": "incompleto",
+        "requeridos": 21,
+        "completados": 15,
+        "por_categoria": [
+          {
+            "categoria": "Certificados de Básicos",
+            "items": [
+              { "tipo": "Certificado de Estudios", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Certificado de Estudios", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Certificado de Estudios", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "hace_falta", "anio": 2026, "observaciones": "pendiente de firma" },
+              { "tipo": "Constancia de Conducta", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Constancia de Conducta", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Constancia de Conducta", "estado": "no_entregado", "anio": 2026, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "no_entregado", "anio": 2026, "observaciones": "" }
+            ]
+          },
+          {
+            "categoria": "Documentos Personales",
+            "items": [
+              { "tipo": "Fotografías tamaño cédula", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Fotografías tamaño cédula", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Fotografías tamaño cédula", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "en_orden", "anio": 2026, "observaciones": "" }
+            ]
+          }
+        ]
+      },
+      {
+        "id_publico": "c3d4e5f6a7b8",
+        "nombre_completo": "María José López García",
+        "grado": "1ro Básico",
+        "seccion": "A",
+        "carrera": "",
+        "anios": "2024,2025,2026",
+        "estado_general": "incompleto",
+        "requeridos": 21,
+        "completados": 12,
+        "por_categoria": [
+          {
+            "categoria": "Certificados de Básicos",
+            "items": [
+              { "tipo": "Certificado de Estudios", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Certificado de Estudios", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Certificado de Estudios", "estado": "no_entregado", "anio": 2026, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "hace_falta", "anio": 2025, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "no_entregado", "anio": 2026, "observaciones": "" },
+              { "tipo": "Constancia de Conducta", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Constancia de Conducta", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Constancia de Conducta", "estado": "no_entregado", "anio": 2026, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "no_entregado", "anio": 2026, "observaciones": "" }
+            ]
+          },
+          {
+            "categoria": "Documentos Personales",
+            "items": [
+              { "tipo": "Fotografías tamaño cédula", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Fotografías tamaño cédula", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Fotografías tamaño cédula", "estado": "no_entregado", "anio": 2026, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "no_entregado", "anio": 2026, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "no_entregado", "anio": 2026, "observaciones": "" }
+            ]
+          }
+        ]
+      },
+      {
+        "id_publico": "d4e5f6a7b8c9",
+        "nombre_completo": "María José López García",
+        "grado": "2do Básico",
+        "seccion": "B",
+        "carrera": "",
+        "anios": "2024,2025,2026",
+        "estado_general": "completo",
+        "requeridos": 21,
+        "completados": 21,
+        "por_categoria": [
+          {
+            "categoria": "Certificados de Básicos",
+            "items": [
+              { "tipo": "Certificado de Estudios", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Certificado de Estudios", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Certificado de Estudios", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Boleta de Notas", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Constancia de Conducta", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Constancia de Conducta", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Constancia de Conducta", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Constancia de Inscripción", "estado": "en_orden", "anio": 2026, "observaciones": "" }
+            ]
+          },
+          {
+            "categoria": "Documentos Personales",
+            "items": [
+              { "tipo": "Fotografías tamaño cédula", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Fotografías tamaño cédula", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Fotografías tamaño cédula", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Partida de Nacimiento", "estado": "en_orden", "anio": 2026, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "en_orden", "anio": 2024, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "en_orden", "anio": 2025, "observaciones": "" },
+              { "tipo": "Fotocopia de CUI", "estado": "en_orden", "anio": 2026, "observaciones": "" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
