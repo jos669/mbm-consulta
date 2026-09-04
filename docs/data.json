@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "fecha_actualizacion": "2026-09-03T15:28:07Z",
+  "version": 5,
+  "fecha_actualizacion": "2026-09-04T03:29:20Z",
   "datos": {
     "papeleria": [
       {
@@ -3278,6 +3278,30 @@
             ]
           }
         ]
+      },
+      {
+        "id_publico": "555d110153f8",
+        "nombre_completo": "José Angel itzep Lopez",
+        "grado": "6to Perito Contador",
+        "seccion": "A",
+        "carrera": "",
+        "anios": "2026",
+        "estado_general": "sin_requisitos",
+        "requeridos": 0,
+        "completados": 0,
+        "por_categoria": []
+      },
+      {
+        "id_publico": "a65a2abbcccc",
+        "nombre_completo": "José Angel itzep Lopez",
+        "grado": "6to Primaria",
+        "seccion": "A",
+        "carrera": "Perito contador",
+        "anios": "2024,2025,2026",
+        "estado_general": "sin_requisitos",
+        "requeridos": 0,
+        "completados": 0,
+        "por_categoria": []
       }
     ]
   }
